@@ -1,6 +1,6 @@
 {
- "name": "Institute Manager",
- "short_name": "Institute",
+ "name": "සිප් දැහැන අධ්‍යාපන ආයතනය",
+ "short_name": "සිප් දැහැන",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
@@ -21,7 +21,7 @@
  ],
  "id": "./",
  "description": "Student registration, fee collection and attendance for tuition institutes",
- "lang": "en",
+ "lang": "si",
  "orientation": "any",
  "categories": [
   "education",
